@@ -1,0 +1,2 @@
+richard,richard,n
+bob,bob,y

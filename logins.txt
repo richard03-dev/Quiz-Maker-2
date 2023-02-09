@@ -1,0 +1,3 @@
+richard,richard,n
+bob,bob,y
+Teacher,123,y
